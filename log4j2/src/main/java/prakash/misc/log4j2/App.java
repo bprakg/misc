@@ -5,7 +5,8 @@ import org.apache.logging.log4j.Logger;
 
 /**
  * 
- * @author prakash 09/08/2018 Log manager
+ * @author prakash 
+ * 09/08/2018 Log manager
  *
  */
 public class App {
@@ -14,7 +15,11 @@ public class App {
 
 	public static void main(String[] args) {
 		System.out.println("sop main asf");
-		String paswswd = "abc";
+		String paswswd = "asf2354@#%ASF";
+		String ssn = "123-45-1232";
+		String abc = "abc";
 		logger.debug("password: {}", paswswd);
+		logger.debug("abc: " + abc);
+		logger.debug("ssn: {}", ssn);
 	}
 }
