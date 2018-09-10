@@ -13,7 +13,7 @@ public class App {
 	private static final Logger logger = LogManager.getLogger("App.class");
 
 	public static void main(String[] args) {
-		System.out.println("sop main");
+		System.out.println("sop main asf");
 		String paswswd = "abc";
 		logger.debug("password: {}", paswswd);
 	}
