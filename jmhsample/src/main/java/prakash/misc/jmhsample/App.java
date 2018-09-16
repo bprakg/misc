@@ -12,11 +12,11 @@ public class App {
 	}
 
 	public static int ootbParseInt() {
-		return Integer.parseInt("0");
+		return Integer.parseInt("2000000000");
 	}
 
 	public static int customParseInt() {
-		String s = "0";
+		String s = "2000000000";
 		int num = 0;
 		for (int i = 0; i < s.length(); i++)
 			num = num * 10 + ((int) s.charAt(i) - 48);
