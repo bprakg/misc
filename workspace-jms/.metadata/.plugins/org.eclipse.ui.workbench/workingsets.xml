@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1465874864008_1" label="jms" name="jms">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/synchconsumer" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/jms" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/clientmdbentity" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/producer" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/simplemessage-ear" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/retailer" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/sharedconsumer" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/simplemessage" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/clientmdbentity-appclient" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/genericsupplier" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/clientsessionmdb-ear" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/durableconsumer" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/transactedexample" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/simplemessage-ejb" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/clientsessionmdb" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/clientsessionmdb-ejb" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/messagebrowser" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/durablesubscriptionexample" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/shared" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/asynchconsumer" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/clientmdbentity-ejb" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/shareddurableconsumer" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/unsubscriber" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/simple" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/websimplemessage" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/clientsessionmdb-appclient" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/simplemessage-appclient" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/clientackconsumer" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/vendor" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/clientmdbentity-ear" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1465875351573_2" label="simple" name="simple"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1465874426432_0" label="Window Working Set" name="Aggregate for window 1465874426432"/>
+</workingSetManager>

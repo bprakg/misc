@@ -1,0 +1,68 @@
+2017-05-25 18:23:16,344 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.17/maven-surefire-plugin-2.17.jar
+2017-05-25 18:23:16,574 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.17/maven-surefire-plugin-2.17.jar
+2017-05-25 18:23:19,258 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.5.1/maven-install-plugin-2.5.1.jar
+2017-05-25 18:23:21,053 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.5.1/maven-install-plugin-2.5.1.jar
+2017-05-25 18:23:21,686 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-deploy-plugin/2.8.1/maven-deploy-plugin-2.8.1.jar
+2017-05-25 18:23:22,089 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-deploy-plugin/2.8.1/maven-deploy-plugin-2.8.1.jar
+2017-05-25 18:23:31,307 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.javferna.packtpub.mastering.knn.benchmark:NearestNeighborsBenchmark:1.0 @ C:\Users\Official\Downloads\MasteringConcurrencyProgrammingwithJava8_Code\Chapter 2\NearestNeighborsBenchmark\pom.xml.
+2017-05-25 18:23:31,569 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/openjdk/jmh/jmh-core/1.11.2/jmh-core-1.11.2.pom
+2017-05-25 18:23:31,716 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/openjdk/jmh/jmh-core/1.11.2/jmh-core-1.11.2.pom
+2017-05-25 18:23:31,836 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/openjdk/jmh/jmh-parent/1.11.2/jmh-parent-1.11.2.pom
+2017-05-25 18:23:32,021 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/openjdk/jmh/jmh-parent/1.11.2/jmh-parent-1.11.2.pom
+2017-05-25 18:23:32,140 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/jopt-simple/jopt-simple/4.6/jopt-simple-4.6.pom
+2017-05-25 18:23:32,921 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/jopt-simple/jopt-simple/4.6/jopt-simple-4.6.pom
+2017-05-25 18:23:33,178 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-math3/3.2/commons-math3-3.2.pom
+2017-05-25 18:23:33,242 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-math3/3.2/commons-math3-3.2.pom
+2017-05-25 18:23:33,496 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/openjdk/jmh/jmh-generator-annprocess/1.11.2/jmh-generator-annprocess-1.11.2.pom
+2017-05-25 18:23:33,552 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/openjdk/jmh/jmh-generator-annprocess/1.11.2/jmh-generator-annprocess-1.11.2.pom
+2017-05-25 18:23:33,616 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/openjdk/jmh/jmh-core/1.11.2/jmh-core-1.11.2.jar
+2017-05-25 18:23:34,966 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/openjdk/jmh/jmh-core/1.11.2/jmh-core-1.11.2.jar
+2017-05-25 18:23:34,996 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/jopt-simple/jopt-simple/4.6/jopt-simple-4.6.jar
+2017-05-25 18:23:35,322 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/jopt-simple/jopt-simple/4.6/jopt-simple-4.6.jar
+2017-05-25 18:23:35,424 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-math3/3.2/commons-math3-3.2.jar
+2017-05-25 18:23:37,073 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-math3/3.2/commons-math3-3.2.jar
+2017-05-25 18:23:37,116 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/openjdk/jmh/jmh-generator-annprocess/1.11.2/jmh-generator-annprocess-1.11.2.jar
+2017-05-25 18:23:37,332 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/openjdk/jmh/jmh-generator-annprocess/1.11.2/jmh-generator-annprocess-1.11.2.jar
+2017-05-25 18:23:38,316 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.17/maven-surefire-plugin-2.17.pom
+2017-05-25 18:23:38,443 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.17/maven-surefire-plugin-2.17.pom
+2017-05-25 18:23:38,570 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.17/surefire-2.17.pom
+2017-05-25 18:23:38,698 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.17/surefire-2.17.pom
+2017-05-25 18:23:41,804 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /NearestNeighborsBenchmark/src/main/java
+2017-05-25 18:23:41,809 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /NearestNeighborsBenchmark/src/test/java
+2017-05-25 18:23:41,929 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 29 sec
+2017-05-25 18:23:42,432 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.javferna.packtpub.mastering.simpleserver.benchmark:SimpleServerBenchmark:1.0 @ C:\Users\Official\Downloads\MasteringConcurrencyProgrammingwithJava8_Code\Chapter 2\SimpleServerBenchmark\pom.xml.
+2017-05-25 18:23:42,775 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SimpleServerBenchmark/src/main/java
+2017-05-25 18:23:42,785 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SimpleServerBenchmark/src/test/java
+2017-05-25 18:23:42,877 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2017-05-25 18:23:47,494 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-25 18:23:47,496 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Official\Downloads\MasteringConcurrencyProgrammingwithJava8_Code\Chapter 2\NearestNeighborsBenchmark\src\main\resources
+2017-05-25 18:23:47,500 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-25 18:23:47,500 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Official\Downloads\MasteringConcurrencyProgrammingwithJava8_Code\Chapter 2\NearestNeighborsBenchmark\src\test\resources
+2017-05-25 18:23:48,325 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-25 18:23:48,333 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Official\Downloads\MasteringConcurrencyProgrammingwithJava8_Code\Chapter 2\SimpleServerBenchmark\src\main\resources
+2017-05-25 18:23:48,343 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-25 18:23:48,343 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Official\Downloads\MasteringConcurrencyProgrammingwithJava8_Code\Chapter 2\SimpleServerBenchmark\src\test\resources
+2017-05-25 19:43:09,518 [Worker-52] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.javferna.packtpub.mastering.objectFilter.benchmark:ObjectFilterBenchmark:1.0 @ C:\Users\Official\Downloads\MasteringConcurrencyProgrammingwithJava8_Code\Chapter 6\4878_06_code_02\ObjectFilterBenchmark\pom.xml.
+2017-05-25 19:43:09,674 [Worker-52] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ObjectFilterBenchmark/src/main/java
+2017-05-25 19:43:09,674 [Worker-52] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ObjectFilterBenchmark/src/test/java
+2017-05-25 19:43:09,736 [Worker-52] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2017-05-25 19:43:10,299 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-25 19:43:10,315 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Official\Downloads\MasteringConcurrencyProgrammingwithJava8_Code\Chapter 6\4878_06_code_02\ObjectFilterBenchmark\src\main\resources
+2017-05-25 19:43:10,315 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-25 19:43:10,315 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Official\Downloads\MasteringConcurrencyProgrammingwithJava8_Code\Chapter 6\4878_06_code_02\ObjectFilterBenchmark\src\test\resources
+2017-05-25 19:43:50,985 [Worker-55] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.javferna.packtpub.mastering.kmeans.benchmark:KMeansClusteringBenchmark:1.0 @ C:\Users\Official\Downloads\MasteringConcurrencyProgrammingwithJava8_Code\Chapter 6\KMeansClusteringBenchmark\pom.xml.
+2017-05-25 19:43:51,157 [Worker-55] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /KMeansClusteringBenchmark/src/main/java
+2017-05-25 19:43:51,157 [Worker-55] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /KMeansClusteringBenchmark/src/test/java
+2017-05-25 19:43:51,204 [Worker-55] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2017-05-25 19:43:51,718 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-25 19:43:51,733 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Official\Downloads\MasteringConcurrencyProgrammingwithJava8_Code\Chapter 6\KMeansClusteringBenchmark\src\main\resources
+2017-05-25 19:43:51,733 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-25 19:43:51,733 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Official\Downloads\MasteringConcurrencyProgrammingwithJava8_Code\Chapter 6\KMeansClusteringBenchmark\src\test\resources
+2017-05-25 19:44:09,472 [Worker-54] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.javferna.packtpub.mastering.mergeSort.benchmark:MergeSortBenchmark:1.0 @ C:\Users\Official\Downloads\MasteringConcurrencyProgrammingwithJava8_Code\Chapter 6\MergeSortBenchmark\pom.xml.
+2017-05-25 19:44:09,628 [Worker-54] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MergeSortBenchmark/src/main/java
+2017-05-25 19:44:09,628 [Worker-54] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MergeSortBenchmark/src/test/java
+2017-05-25 19:44:09,675 [Worker-54] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2017-05-25 19:44:10,128 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-25 19:44:10,128 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Official\Downloads\MasteringConcurrencyProgrammingwithJava8_Code\Chapter 6\MergeSortBenchmark\src\main\resources
+2017-05-25 19:44:10,144 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-25 19:44:10,144 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Official\Downloads\MasteringConcurrencyProgrammingwithJava8_Code\Chapter 6\MergeSortBenchmark\src\test\resources

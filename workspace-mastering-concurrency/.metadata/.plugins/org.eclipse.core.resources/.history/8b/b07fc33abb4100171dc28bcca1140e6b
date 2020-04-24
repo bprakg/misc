@@ -1,0 +1,15 @@
+package com.sample;
+
+import java.util.concurrent.Executor;
+import java.util.concurrent.Executors;
+
+public class Sample {
+
+	public static void main(String[] args) {
+		System.out.println(Runtime.getRuntime().availableProcessors());
+		Executor e = Executors.newFixedThreadPool(4);
+		int i = 0;
+		e.execute(new ThreadTest(++i));
+	}
+
+}

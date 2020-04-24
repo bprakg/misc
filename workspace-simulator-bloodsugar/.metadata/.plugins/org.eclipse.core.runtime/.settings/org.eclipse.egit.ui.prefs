@@ -1,0 +1,3 @@
+BranchProjectTracker__C\:\\Users\\Official\\Documents\\HealthIQ\\simulator-bloodsugar\\.git_working-ui=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<projects branch\="working-ui">\r\n<project>/</project>\r\n</projects>
+commit_dialog_history_messages=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<messages>\r\n<message>Re-organizing working code into Yosemite to make it more readable</message>\r\n<message>Fixing problem with chart, was running old version of chartjs, and it&\#x0A;was causing issues.</message>\r\n<message>Moving docker one level up</message>\r\n<message>INtegrating react-redux frontend with springboot backend</message>\r\n</messages>
+eclipse.preferences.version=1
