@@ -1,0 +1,633 @@
+2017-07-04 01:26:22,895 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.healthiq.simulator:bloodsugar:0.0.1-SNAPSHOT @ C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\pom.xml.
+2017-07-04 01:27:01,170 [Worker-0] INFO  c.g.e.m.p.f.lib.NodeInstaller - Node v4.4.5 is already installed.
+2017-07-04 01:27:01,862 [Worker-0] INFO  c.g.e.m.p.frontend.lib.NPMInstaller - NPM 3.9.2 is already installed.
+2017-07-04 01:27:03,266 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bloodsugar/src/main/java
+2017-07-04 01:27:03,268 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bloodsugar/src/main/resources
+2017-07-04 01:27:03,271 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bloodsugar/src/main/resources
+2017-07-04 01:27:03,274 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bloodsugar/src/test/java
+2017-07-04 01:27:03,964 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 78 sec
+2017-07-04 01:27:12,321 [Worker-14] INFO  c.g.e.m.p.f.lib.NodeInstaller - Node v4.4.5 is already installed.
+2017-07-04 01:27:12,328 [Worker-14] INFO  c.g.e.m.p.frontend.lib.NPMInstaller - NPM 3.9.2 is already installed.
+2017-07-04 01:27:12,337 [Worker-14] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm install' in C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 01:27:47,225 [Thread-13] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional Skipping failed optional dependency /chokidar/fsevents:
+2017-07-04 01:27:47,234 [Thread-13] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup Not compatible with your operating system or architecture: fsevents@1.1.2
+2017-07-04 01:27:47,242 [Thread-13] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN extract-text-webpack-plugin@2.1.2 requires a peer of webpack@^2.2.0 but none was installed.
+2017-07-04 01:27:47,248 [Thread-13] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN react-redux@5.0.5 requires a peer of redux@^2.0.0 || ^3.0.0 but none was installed.
+2017-07-04 01:27:47,255 [Thread-13] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN webpack-dev-server@2.5.0 requires a peer of webpack@^2.2.0 but none was installed.
+2017-07-04 01:27:47,266 [Worker-14] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - Running 'webpack.js ' in C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 01:27:53,314 [Thread-14] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - Hash: 852112cf3b36a1b7228c
+2017-07-04 01:27:53,314 [Thread-14] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - Version: webpack 1.15.0
+2017-07-04 01:27:53,314 [Thread-14] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - Time: 44ms
+2017-07-04 01:27:53,318 [Thread-14] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - 
+2017-07-04 01:27:53,324 [Thread-14] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - ERROR in Entry module not found: Error: Cannot resolve module 'react-hot' in C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 01:27:53,350 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 01:27:53,356 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-04 01:27:53,382 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-07-04 01:27:53,449 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 01:27:53,449 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\src\test\resources
+2017-07-04 01:33:18,468 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 01:33:18,469 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 01:40:58,574 [Worker-17] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm install' in C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 01:41:46,297 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - - wordwrap@0.0.2 node_modules\cliui\node_modules\wordwrap
+2017-07-04 01:41:46,300 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - - memory-fs@0.2.0 node_modules\enhanced-resolve\node_modules\memory-fs
+2017-07-04 01:41:46,318 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - - async@0.2.10 node_modules\uglify-js\node_modules\async
+2017-07-04 01:41:46,319 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - - async@0.9.2 node_modules\watchpack\node_modules\async
+2017-07-04 01:41:46,337 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - - source-map@0.4.4 node_modules\webpack-core\node_modules\source-map
+2017-07-04 01:41:46,337 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - - amdefine@1.0.1 node_modules\amdefine
+2017-07-04 01:41:46,357 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - - optimist@0.6.1 node_modules\optimist
+2017-07-04 01:41:46,358 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - - pbkdf2-compat@2.0.1 node_modules\pbkdf2-compat
+2017-07-04 01:41:46,358 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - - webpack-core@0.6.9 node_modules\webpack-core
+2017-07-04 01:41:47,668 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - healthiq-simulator-bloodsugar@0.1.0 C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 01:41:47,675 [Thread-22] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional Skipping failed optional dependency /chokidar/fsevents:
+2017-07-04 01:41:47,676 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - +-- css-loader@0.28.4
+2017-07-04 01:41:47,684 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - | `-- postcss@5.2.17
+2017-07-04 01:41:47,684 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - |   `-- supports-color@3.2.3
+2017-07-04 01:41:47,686 [Thread-22] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup Not compatible with your operating system or architecture: fsevents@1.1.2
+2017-07-04 01:41:47,692 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - |     `-- has-flag@1.0.0 
+2017-07-04 01:41:47,692 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - +-- extract-text-webpack-plugin@2.1.2  extraneous
+2017-07-04 01:41:47,692 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - `-- webpack@2.6.1 
+2017-07-04 01:41:47,700 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   +-- acorn@5.0.3 
+2017-07-04 01:41:47,700 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   +-- acorn-dynamic-import@2.0.2 
+2017-07-04 01:41:47,700 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   | `-- acorn@4.0.13 
+2017-07-04 01:41:47,700 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   +-- ajv@4.11.8 
+2017-07-04 01:41:47,700 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   +-- ajv-keywords@1.5.1 
+2017-07-04 01:41:47,700 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   +-- async@2.5.0 
+2017-07-04 01:41:47,700 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   +-- enhanced-resolve@3.3.0 
+2017-07-04 01:41:47,700 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   +-- interpret@1.0.3 
+2017-07-04 01:41:47,700 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   +-- json-loader@0.5.4 
+2017-07-04 01:41:47,701 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   +-- loader-runner@2.3.0 
+2017-07-04 01:41:47,701 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   +-- memory-fs@0.4.1 
+2017-07-04 01:41:47,701 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   +-- node-libs-browser@2.0.0 
+2017-07-04 01:41:47,701 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   | `-- crypto-browserify@3.11.0 
+2017-07-04 01:41:47,701 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   |   +-- browserify-cipher@1.0.0 
+2017-07-04 01:41:47,701 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   |   | +-- browserify-aes@1.0.6 
+2017-07-04 01:41:47,701 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   |   | | `-- buffer-xor@1.0.3 
+2017-07-04 01:41:47,709 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   |   | +-- browserify-des@1.0.0 
+2017-07-04 01:41:47,709 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   |   | | `-- des.js@1.0.0 
+2017-07-04 01:41:47,709 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   |   | `-- evp_bytestokey@1.0.0 
+2017-07-04 01:41:47,709 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   |   +-- browserify-sign@4.0.4 
+2017-07-04 01:41:47,709 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   |   | +-- bn.js@4.11.7 
+2017-07-04 01:41:47,709 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   |   | +-- browserify-rsa@4.0.1 
+2017-07-04 01:41:47,709 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   |   | +-- elliptic@6.4.0 
+2017-07-04 01:41:47,710 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   |   | | +-- brorand@1.1.0 
+2017-07-04 01:41:47,710 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   |   | | +-- hash.js@1.1.3 
+2017-07-04 01:41:47,710 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   |   | | +-- hmac-drbg@1.0.1 
+2017-07-04 01:41:47,710 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   |   | | +-- minimalistic-assert@1.0.0 
+2017-07-04 01:41:47,710 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   |   | | `-- minimalistic-crypto-utils@1.0.1 
+2017-07-04 01:41:47,710 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   |   | `-- parse-asn1@5.1.0 
+2017-07-04 01:41:47,710 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   |   |   `-- asn1.js@4.9.1 
+2017-07-04 01:41:47,710 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   |   +-- create-ecdh@4.0.0 
+2017-07-04 01:41:47,710 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   |   +-- create-hash@1.1.3 
+2017-07-04 01:41:47,710 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   |   | +-- cipher-base@1.0.3 
+2017-07-04 01:41:47,710 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   |   | +-- ripemd160@2.0.1 
+2017-07-04 01:41:47,710 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   |   | | `-- hash-base@2.0.2 
+2017-07-04 01:41:47,710 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   |   | `-- sha.js@2.4.8 
+2017-07-04 01:41:47,711 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   |   +-- create-hmac@1.1.6 
+2017-07-04 01:41:47,711 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   |   +-- diffie-hellman@5.0.2 
+2017-07-04 01:41:47,711 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   |   | `-- miller-rabin@4.0.0 
+2017-07-04 01:41:47,711 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   |   +-- pbkdf2@3.0.12 
+2017-07-04 01:41:47,711 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   |   +-- public-encrypt@4.0.0 
+2017-07-04 01:41:47,711 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   |   `-- randombytes@2.0.5 
+2017-07-04 01:41:47,711 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   +-- tapable@0.2.6 
+2017-07-04 01:41:47,712 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   +-- uglify-js@2.8.29 
+2017-07-04 01:41:47,712 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   | `-- yargs@3.10.0 
+2017-07-04 01:41:47,712 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   |   `-- cliui@2.1.0
+2017-07-04 01:41:47,712 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   |     `-- wordwrap@0.0.2 
+2017-07-04 01:41:47,712 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   +-- watchpack@1.3.1 
+2017-07-04 01:41:47,720 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   +-- webpack-sources@0.2.3 
+2017-07-04 01:41:47,721 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   | `-- source-list-map@1.1.2 
+2017-07-04 01:41:47,721 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   `-- yargs@6.6.0 
+2017-07-04 01:41:47,721 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -     +-- camelcase@3.0.0 
+2017-07-04 01:41:47,721 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -     +-- cliui@3.2.0 
+2017-07-04 01:41:47,721 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -     | `-- wrap-ansi@2.1.0 
+2017-07-04 01:41:47,721 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -     +-- get-caller-file@1.0.2 
+2017-07-04 01:41:47,721 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -     +-- os-locale@1.4.0 
+2017-07-04 01:41:47,721 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -     | `-- lcid@1.0.0 
+2017-07-04 01:41:47,721 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -     |   `-- invert-kv@1.0.0 
+2017-07-04 01:41:47,721 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -     +-- read-pkg-up@1.0.1 
+2017-07-04 01:41:47,721 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -     | `-- read-pkg@1.1.0 
+2017-07-04 01:41:47,721 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -     |   +-- load-json-file@1.1.0 
+2017-07-04 01:41:47,721 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -     |   | +-- parse-json@2.2.0 
+2017-07-04 01:41:47,721 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -     |   | | `-- error-ex@1.3.1 
+2017-07-04 01:41:47,721 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -     |   | |   `-- is-arrayish@0.2.1 
+2017-07-04 01:41:47,722 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -     |   | +-- pify@2.3.0 
+2017-07-04 01:41:47,722 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -     |   | `-- strip-bom@2.0.0 
+2017-07-04 01:41:47,722 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -     |   |   `-- is-utf8@0.2.1 
+2017-07-04 01:41:47,722 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -     |   +-- normalize-package-data@2.4.0 
+2017-07-04 01:41:47,722 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -     |   | +-- hosted-git-info@2.5.0 
+2017-07-04 01:41:47,722 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -     |   | +-- is-builtin-module@1.0.0 
+2017-07-04 01:41:47,722 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -     |   | | `-- builtin-modules@1.1.1 
+2017-07-04 01:41:47,722 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -     |   | +-- semver@5.3.0 
+2017-07-04 01:41:47,722 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -     |   | `-- validate-npm-package-license@3.0.1 
+2017-07-04 01:41:47,722 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -     |   |   +-- spdx-correct@1.0.2 
+2017-07-04 01:41:47,722 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -     |   |   | `-- spdx-license-ids@1.2.2 
+2017-07-04 01:41:47,722 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -     |   |   `-- spdx-expression-parse@1.0.4 
+2017-07-04 01:41:47,722 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -     |   `-- path-type@1.1.0 
+2017-07-04 01:41:47,722 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -     +-- require-directory@2.1.1 
+2017-07-04 01:41:47,723 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -     +-- require-main-filename@1.0.1 
+2017-07-04 01:41:47,723 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -     +-- set-blocking@2.0.0 
+2017-07-04 01:41:47,732 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -     +-- string-width@1.0.2 
+2017-07-04 01:41:47,732 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -     | +-- code-point-at@1.1.0 
+2017-07-04 01:41:47,732 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -     | `-- is-fullwidth-code-point@1.0.0 
+2017-07-04 01:41:47,732 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -     +-- which-module@1.0.0 
+2017-07-04 01:41:47,732 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -     +-- y18n@3.2.1 
+2017-07-04 01:41:47,733 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -     `-- yargs-parser@4.2.1 
+2017-07-04 01:41:47,733 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -       `-- camelcase@3.0.0 
+2017-07-04 01:41:47,733 [Thread-21] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2017-07-04 01:41:47,735 [Worker-17] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - Running 'webpack.js ' in C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 01:41:50,427 [Thread-25] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - Hash: f2b4ee62bdc08a061a66
+2017-07-04 01:41:50,427 [Thread-25] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - Version: webpack 2.6.1
+2017-07-04 01:41:50,428 [Thread-25] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - Time: 468ms
+2017-07-04 01:41:50,428 [Thread-25] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -                                           Asset     Size  Chunks             Chunk Names
+2017-07-04 01:41:50,428 [Thread-25] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -     ./src/main/resources/static/built/bundle.js  3.02 kB       0  [emitted]  main
+2017-07-04 01:41:50,428 [Thread-25] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - ./src/main/resources/static/built/bundle.js.map  2.66 kB       0  [emitted]  main
+2017-07-04 01:41:50,428 [Thread-25] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -    [0] ./src/main/js/app.js 349 bytes {0} [built] [failed] [1 error]
+2017-07-04 01:41:50,429 [Thread-25] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - 
+2017-07-04 01:41:50,429 [Thread-25] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - ERROR in ./src/main/js/app.js
+2017-07-04 01:41:50,429 [Thread-25] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - Module parse failed: C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\src\main\js\app.js Unexpected token (11:16)
+2017-07-04 01:41:50,429 [Thread-25] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - You may need an appropriate loader to handle this file type.
+2017-07-04 01:41:50,429 [Thread-25] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - | let store = createStore(reducer);
+2017-07-04 01:41:50,429 [Thread-25] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - | 
+2017-07-04 01:41:50,430 [Thread-25] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - | ReactDOM.render(<IndexApp />, document.getElementById('root'));
+2017-07-04 01:41:50,430 [Thread-25] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - | registerServiceWorker();
+2017-07-04 01:41:50,637 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 01:41:50,650 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-04 01:41:50,676 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-04 01:41:50,684 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 01:41:50,685 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\src\test\resources
+2017-07-04 01:41:58,615 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 01:41:58,616 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 01:42:17,087 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping npm install as package.json unchanged
+2017-07-04 01:42:17,094 [Worker-3] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - Running 'webpack.js ' in C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 01:42:21,596 [Thread-30] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - Hash: f2b4ee62bdc08a061a66
+2017-07-04 01:42:21,596 [Thread-30] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - Version: webpack 2.6.1
+2017-07-04 01:42:21,596 [Thread-30] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - Time: 331ms
+2017-07-04 01:42:21,596 [Thread-30] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -                                           Asset     Size  Chunks             Chunk Names
+2017-07-04 01:42:21,597 [Thread-30] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -     ./src/main/resources/static/built/bundle.js  3.02 kB       0  [emitted]  main
+2017-07-04 01:42:21,597 [Thread-30] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - ./src/main/resources/static/built/bundle.js.map  2.66 kB       0  [emitted]  main
+2017-07-04 01:42:21,597 [Thread-30] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -    [0] ./src/main/js/app.js 349 bytes {0} [built] [failed] [1 error]
+2017-07-04 01:42:21,597 [Thread-30] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - 
+2017-07-04 01:42:21,598 [Thread-30] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - ERROR in ./src/main/js/app.js
+2017-07-04 01:42:21,598 [Thread-30] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - Module parse failed: C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\src\main\js\app.js Unexpected token (11:16)
+2017-07-04 01:42:21,598 [Thread-30] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - You may need an appropriate loader to handle this file type.
+2017-07-04 01:42:21,598 [Thread-30] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - | let store = createStore(reducer);
+2017-07-04 01:42:21,598 [Thread-30] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - | 
+2017-07-04 01:42:21,598 [Thread-30] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - | ReactDOM.render(<IndexApp />, document.getElementById('root'));
+2017-07-04 01:42:21,599 [Thread-30] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - | registerServiceWorker();
+2017-07-04 01:42:21,636 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 01:42:21,637 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-04 01:42:21,638 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-04 01:42:21,645 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 01:42:21,646 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\src\test\resources
+2017-07-04 01:42:26,983 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 01:42:26,983 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 01:45:28,652 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 01:45:28,653 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 01:48:49,809 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 01:48:49,810 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 01:51:27,814 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-07-04 01:51:36,554 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.healthiq.simulator:bloodsugar:0.0.1-SNAPSHOT @ C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\pom.xml.
+2017-07-04 01:51:41,638 [Worker-16] INFO  c.g.e.m.p.f.lib.NodeInstaller - Node v4.4.5 is already installed.
+2017-07-04 01:51:41,937 [Worker-16] INFO  c.g.e.m.p.frontend.lib.NPMInstaller - NPM 3.9.2 is already installed.
+2017-07-04 01:51:42,145 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bloodsugar/src/main/java
+2017-07-04 01:51:42,147 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bloodsugar/src/main/resources
+2017-07-04 01:51:42,148 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bloodsugar/src/main/resources
+2017-07-04 01:51:42,149 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bloodsugar/src/test/java
+2017-07-04 01:51:45,794 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 17 sec
+2017-07-04 01:52:37,125 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 01:52:37,125 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 02:02:11,103 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 02:02:11,103 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 02:07:30,701 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 02:07:30,701 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 02:11:42,323 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 02:11:42,323 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 02:13:31,412 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 02:13:31,412 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 02:17:34,475 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 02:17:34,476 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 02:23:09,100 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 02:23:09,100 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 02:30:56,323 [Worker-30] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 02:30:56,323 [Worker-30] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 02:42:45,929 [Worker-30] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 02:42:45,929 [Worker-30] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 02:44:26,963 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 02:44:26,963 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 02:45:06,503 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 02:45:06,503 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 02:57:53,151 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 02:57:53,151 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 03:01:49,011 [Worker-33] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 03:01:49,011 [Worker-33] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 03:05:11,886 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 03:05:11,886 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 03:10:58,055 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 03:10:58,055 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 03:15:41,045 [Worker-33] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 03:15:41,045 [Worker-33] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 03:18:03,854 [Worker-33] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 03:18:03,855 [Worker-33] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 03:23:59,894 [Worker-33] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 03:23:59,894 [Worker-33] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 03:24:15,169 [Worker-39] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 03:24:15,169 [Worker-39] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 03:34:15,132 [Worker-44] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 03:34:15,132 [Worker-44] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 03:39:14,093 [Worker-45] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 03:39:14,093 [Worker-45] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 03:46:02,001 [Worker-46] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 03:46:02,001 [Worker-46] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 03:52:09,808 [Worker-45] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 03:52:09,808 [Worker-45] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 10:44:28,660 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 10:44:28,667 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 10:45:45,951 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 10:45:45,952 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 10:54:46,300 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 10:54:46,300 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 10:59:16,367 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 10:59:16,367 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 11:06:22,473 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 11:06:22,473 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 11:15:04,301 [Worker-39] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 11:15:04,301 [Worker-39] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 11:18:43,214 [Worker-38] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 11:18:43,214 [Worker-38] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 11:25:36,111 [Worker-43] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 11:25:36,111 [Worker-43] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 11:34:00,409 [Worker-43] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 11:34:00,409 [Worker-43] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 11:36:03,164 [Worker-47] INFO  c.g.e.m.p.f.lib.NodeInstaller - Node v4.4.5 is already installed.
+2017-07-04 11:36:03,457 [Worker-47] INFO  c.g.e.m.p.frontend.lib.NPMInstaller - NPM 3.9.2 is already installed.
+2017-07-04 11:36:03,468 [Worker-47] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm install' in C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 11:36:34,495 [Thread-80] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional Skipping failed optional dependency /react-scripts/fsevents:
+2017-07-04 11:36:34,518 [Thread-80] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup Not compatible with your operating system or architecture: fsevents@1.1.2
+2017-07-04 11:36:34,540 [Thread-80] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional Skipping failed optional dependency /chokidar/fsevents:
+2017-07-04 11:36:34,559 [Thread-80] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup Not compatible with your operating system or architecture: fsevents@1.1.2
+2017-07-04 11:36:34,575 [Worker-47] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - Running 'webpack.js ' in C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 11:36:39,198 [Thread-82] ERROR c.g.e.m.p.f.l.DefaultWebpackRunner - loaderUtils.parseQuery() received a non-string value which can be problematic, see https://github.com/webpack/loader-utils/issues/56
+2017-07-04 11:36:39,212 [Thread-82] ERROR c.g.e.m.p.f.l.DefaultWebpackRunner - parseQuery() will be replaced with getOptions() in the next major version of loader-utils.
+2017-07-04 11:36:41,784 [Thread-81] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - Hash: 23be73bb88b95f0313d5
+2017-07-04 11:36:41,789 [Thread-81] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - Version: webpack 2.6.1
+2017-07-04 11:36:41,796 [Thread-81] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - Time: 4346ms
+2017-07-04 11:36:41,796 [Thread-81] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -                                           Asset    Size  Chunks                    Chunk Names
+2017-07-04 11:36:41,803 [Thread-81] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -     ./src/main/resources/static/built/bundle.js  846 kB       0  [emitted]  [big]  main
+2017-07-04 11:36:41,803 [Thread-81] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - ./src/main/resources/static/built/bundle.js.map  998 kB       0  [emitted]         main
+2017-07-04 11:36:41,803 [Thread-81] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -    [0] ./~/process/browser.js 5.42 kB {0} [built]
+2017-07-04 11:36:41,803 [Thread-81] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -   [18] ./~/react/lib/React.js 5.08 kB {0} [built]
+2017-07-04 11:36:41,809 [Thread-81] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -   [24] ./~/react/react.js 56 bytes {0} [built]
+2017-07-04 11:36:41,810 [Thread-81] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -   [25] ./~/redux/es/index.js 1.08 kB {0} [built]
+2017-07-04 11:36:41,810 [Thread-81] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -   [54] ./src/main/js/App.js 998 bytes {0} [built]
+2017-07-04 11:36:41,810 [Thread-81] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -   [55] ./src/main/js/SimulatorReducer.js 2.13 kB {0} [built]
+2017-07-04 11:36:41,817 [Thread-81] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -   [56] ./src/main/js/registerServiceWorker.js 4.03 kB {0} [built]
+2017-07-04 11:36:41,817 [Thread-81] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -   [57] ./~/react-dom/index.js 59 bytes {0} [built]
+2017-07-04 11:36:41,817 [Thread-81] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -   [58] ./~/react-redux/es/index.js 230 bytes {0} [built]
+2017-07-04 11:36:41,817 [Thread-81] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -  [101] ./src/main/js/app.js 998 bytes {0} [built]
+2017-07-04 11:36:41,817 [Thread-81] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -  [142] ./~/react-dom/lib/ReactDOM.js 5.17 kB {0} [built]
+2017-07-04 11:36:41,817 [Thread-81] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -  [200] ./~/react-redux/es/connect/connect.js 5.34 kB {0} [built]
+2017-07-04 11:36:41,817 [Thread-81] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -  [221] ./~/redux/es/applyMiddleware.js 1.8 kB {0} [built]
+2017-07-04 11:36:41,817 [Thread-81] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -  [222] ./~/redux/es/bindActionCreators.js 1.98 kB {0} [built]
+2017-07-04 11:36:41,825 [Thread-81] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -  [223] ./~/redux/es/combineReducers.js 5.86 kB {0} [built]
+2017-07-04 11:36:41,825 [Thread-81] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -     + 213 hidden modules
+2017-07-04 11:36:41,825 [Thread-81] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - 
+2017-07-04 11:36:41,825 [Thread-81] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - WARNING in ./src/main/js/App.js
+2017-07-04 11:36:41,825 [Thread-81] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - There are multiple modules with names that only differ in casing.
+2017-07-04 11:36:41,825 [Thread-81] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - This can lead to unexpected behavior when compiling on a filesystem with other case-semantic.
+2017-07-04 11:36:41,825 [Thread-81] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - Use equal casing. Compare these module identifiers:
+2017-07-04 11:36:41,826 [Thread-81] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - * C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\node_modules\babel-loader\lib\index.js??ref--0!C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\src\main\js\App.js
+2017-07-04 11:36:41,826 [Thread-81] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -     Used by 2 module(s), i. e.
+2017-07-04 11:36:41,826 [Thread-81] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -     C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\node_modules\babel-loader\lib\index.js??ref--0!C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\src\main\js\app.js
+2017-07-04 11:36:41,826 [Thread-81] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - * C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\node_modules\babel-loader\lib\index.js??ref--0!C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\src\main\js\app.js
+2017-07-04 11:36:43,802 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 11:36:43,856 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-04 11:36:43,937 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-07-04 11:36:44,254 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 11:36:44,255 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\src\test\resources
+2017-07-04 11:39:17,441 [Worker-47] INFO  c.g.e.m.p.f.lib.NodeInstaller - Node v4.4.5 is already installed.
+2017-07-04 11:39:17,441 [Worker-47] INFO  c.g.e.m.p.frontend.lib.NPMInstaller - NPM 3.9.2 is already installed.
+2017-07-04 11:39:17,441 [Worker-47] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm install' in C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 11:39:42,302 [Thread-84] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional Skipping failed optional dependency /react-scripts/fsevents:
+2017-07-04 11:39:42,317 [Thread-84] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup Not compatible with your operating system or architecture: fsevents@1.1.2
+2017-07-04 11:39:42,333 [Thread-84] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN optional Skipping failed optional dependency /chokidar/fsevents:
+2017-07-04 11:39:42,364 [Thread-84] WARN  c.g.e.m.p.f.lib.DefaultNpmRunner - npm WARN notsup Not compatible with your operating system or architecture: fsevents@1.1.2
+2017-07-04 11:39:42,380 [Worker-47] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - Running 'webpack.js ' in C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 11:39:44,069 [Thread-86] ERROR c.g.e.m.p.f.l.DefaultWebpackRunner - loaderUtils.parseQuery() received a non-string value which can be problematic, see https://github.com/webpack/loader-utils/issues/56
+2017-07-04 11:39:44,069 [Thread-86] ERROR c.g.e.m.p.f.l.DefaultWebpackRunner - parseQuery() will be replaced with getOptions() in the next major version of loader-utils.
+2017-07-04 11:39:50,397 [Thread-85] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - Hash: 1467e160a7a689591139
+2017-07-04 11:39:50,425 [Thread-85] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - Version: webpack 2.6.1
+2017-07-04 11:39:50,447 [Thread-85] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - Time: 6887ms
+2017-07-04 11:39:50,447 [Thread-85] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -                                           Asset     Size  Chunks                    Chunk Names
+2017-07-04 11:39:50,468 [Thread-85] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -     ./src/main/resources/static/built/bundle.js   876 kB       0  [emitted]  [big]  main
+2017-07-04 11:39:50,469 [Thread-85] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - ./src/main/resources/static/built/bundle.js.map  1.02 MB       0  [emitted]         main
+2017-07-04 11:39:50,470 [Thread-85] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -    [0] ./~/process/browser.js 5.42 kB {0} [built]
+2017-07-04 11:39:50,470 [Thread-85] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -   [13] ./~/react/react.js 56 bytes {0} [built]
+2017-07-04 11:39:50,470 [Thread-85] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -   [33] ./~/react-redux/es/index.js 230 bytes {0} [built]
+2017-07-04 11:39:50,470 [Thread-85] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -   [34] ./~/redux/es/index.js 1.08 kB {0} [built]
+2017-07-04 11:39:50,470 [Thread-85] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -   [94] ./~/redux/es/compose.js 870 bytes {0} [built]
+2017-07-04 11:39:50,470 [Thread-85] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -   [95] ./~/redux/es/createStore.js 8.88 kB {0} [built]
+2017-07-04 11:39:50,470 [Thread-85] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -   [96] ./~/redux/es/utils/warning.js 637 bytes {0} [built]
+2017-07-04 11:39:50,470 [Thread-85] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -   [98] ./src/main/js/IndexApp.js 3.12 kB {0} [built]
+2017-07-04 11:39:50,501 [Thread-85] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -   [99] ./src/main/js/SimulatorReducer.js 2.13 kB {0} [built]
+2017-07-04 11:39:50,501 [Thread-85] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -  [100] ./src/main/js/registerServiceWorker.js 4.03 kB {0} [built]
+2017-07-04 11:39:50,501 [Thread-85] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -  [101] ./~/react-dom/index.js 59 bytes {0} [built]
+2017-07-04 11:39:50,501 [Thread-85] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -  [103] ./src/main/js/GraphSimulator.js 2.73 kB {0} [built]
+2017-07-04 11:39:50,501 [Thread-85] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -  [105] ./src/main/js/app.js 1.03 kB {0} [built]
+2017-07-04 11:39:50,501 [Thread-85] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -  [146] ./~/react-dom/lib/ReactDOM.js 5.17 kB {0} [built]
+2017-07-04 11:39:50,501 [Thread-85] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -  [205] ./~/react-redux/es/connect/connect.js 5.34 kB {0} [built]
+2017-07-04 11:39:50,501 [Thread-85] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -     + 218 hidden modules
+2017-07-04 11:39:50,517 [Thread-85] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - 
+2017-07-04 11:39:50,517 [Thread-85] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - ERROR in ./src/main/js/IndexApp.js
+2017-07-04 11:39:50,517 [Thread-85] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - Module not found: Error: Can't resolve './App.css' in 'C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\src\main\js'
+2017-07-04 11:39:50,517 [Thread-85] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -  @ ./src/main/js/IndexApp.js 13:0-20
+2017-07-04 11:39:50,517 [Thread-85] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -  @ ./src/main/js/app.js
+2017-07-04 11:39:50,517 [Thread-85] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - 
+2017-07-04 11:39:50,517 [Thread-85] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - ERROR in ./src/main/js/GraphSimulator.js
+2017-07-04 11:39:50,517 [Thread-85] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - Module not found: Error: Can't resolve './App.css' in 'C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\src\main\js'
+2017-07-04 11:39:50,517 [Thread-85] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -  @ ./src/main/js/GraphSimulator.js 13:0-20
+2017-07-04 11:39:50,517 [Thread-85] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -  @ ./src/main/js/IndexApp.js
+2017-07-04 11:39:50,517 [Thread-85] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -  @ ./src/main/js/app.js
+2017-07-04 11:39:50,517 [Thread-85] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - 
+2017-07-04 11:39:50,517 [Thread-85] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - ERROR in ./src/main/js/BloodSugarAlteringEvent.js
+2017-07-04 11:39:50,517 [Thread-85] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - Module not found: Error: Can't resolve './App.css' in 'C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\src\main\js'
+2017-07-04 11:39:50,517 [Thread-85] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -  @ ./src/main/js/BloodSugarAlteringEvent.js 13:0-20
+2017-07-04 11:39:50,517 [Thread-85] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -  @ ./src/main/js/IndexApp.js
+2017-07-04 11:39:50,517 [Thread-85] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -  @ ./src/main/js/app.js
+2017-07-04 11:39:50,517 [Thread-85] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - 
+2017-07-04 11:39:50,517 [Thread-85] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - ERROR in ./src/main/js/RowComponent.js
+2017-07-04 11:39:50,517 [Thread-85] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner - Module not found: Error: Can't resolve './App.css' in 'C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\src\main\js'
+2017-07-04 11:39:50,517 [Thread-85] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -  @ ./src/main/js/RowComponent.js 13:0-20
+2017-07-04 11:39:50,517 [Thread-85] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -  @ ./src/main/js/BloodSugarAlteringEvent.js
+2017-07-04 11:39:50,517 [Thread-85] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -  @ ./src/main/js/IndexApp.js
+2017-07-04 11:39:50,517 [Thread-85] INFO  c.g.e.m.p.f.l.DefaultWebpackRunner -  @ ./src/main/js/app.js
+2017-07-04 11:39:50,532 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 11:39:50,532 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-04 11:39:50,548 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-07-04 11:39:50,990 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 11:39:50,990 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\src\test\resources
+2017-07-04 11:42:20,605 [Worker-48] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 11:42:20,605 [Worker-48] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 11:46:25,145 [Worker-49] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-07-04 11:46:33,108 [Worker-49] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.healthiq.simulator:bloodsugar:0.0.1-SNAPSHOT @ C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\pom.xml.
+2017-07-04 11:46:38,036 [Worker-49] INFO  c.g.e.m.p.f.lib.NodeInstaller - Node v4.4.5 is already installed.
+2017-07-04 11:46:38,301 [Worker-49] INFO  c.g.e.m.p.frontend.lib.NPMInstaller - NPM 3.9.2 is already installed.
+2017-07-04 11:46:38,379 [Worker-49] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bloodsugar/src/main/java
+2017-07-04 11:46:38,379 [Worker-49] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bloodsugar/src/main/resources
+2017-07-04 11:46:38,379 [Worker-49] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bloodsugar/src/main/resources
+2017-07-04 11:46:38,379 [Worker-49] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bloodsugar/src/test/java
+2017-07-04 11:46:40,911 [Worker-49] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 15 sec
+2017-07-04 11:47:47,934 [Worker-51] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 11:47:47,934 [Worker-51] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 11:51:10,520 [Worker-54] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 11:51:10,520 [Worker-54] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 11:53:48,790 [Worker-59] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 11:53:48,790 [Worker-59] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 11:55:50,865 [Worker-61] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 11:55:50,880 [Worker-61] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 12:01:19,675 [Worker-62] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 12:01:19,675 [Worker-62] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 12:10:38,420 [Worker-67] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 12:10:38,420 [Worker-67] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 12:22:26,018 [Worker-71] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 12:22:26,018 [Worker-71] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 12:26:38,850 [Worker-74] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 12:26:38,850 [Worker-74] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 13:10:37,466 [Worker-96] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 13:10:37,466 [Worker-96] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 13:12:23,143 [Worker-91] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 13:12:23,159 [Worker-91] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 13:17:52,946 [Worker-93] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 13:17:52,946 [Worker-93] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 13:21:35,588 [Worker-93] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 13:21:35,588 [Worker-93] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 13:22:14,737 [Worker-96] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.healthiq.simulator:bloodsugar:0.0.1-SNAPSHOT @ C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\pom.xml.
+2017-07-04 13:22:16,112 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 13:22:16,112 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-04 13:22:16,143 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-07-04 13:22:16,159 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 13:22:16,159 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\src\test\resources
+2017-07-04 13:25:00,831 [Worker-101] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 13:25:00,831 [Worker-101] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 13:25:16,486 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 13:25:16,501 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-04 13:25:16,501 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-04 13:25:16,501 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 13:25:16,501 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\src\test\resources
+2017-07-04 13:27:40,784 [Worker-93] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 13:27:40,784 [Worker-93] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 13:28:15,430 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 13:28:15,430 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-04 13:28:15,446 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-04 13:28:15,446 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 13:28:15,446 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\src\test\resources
+2017-07-04 13:31:19,396 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 13:31:19,396 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-04 13:31:19,396 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-04 13:31:19,396 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 13:31:19,412 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\src\test\resources
+2017-07-04 13:32:25,605 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 13:32:25,605 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-04 13:32:25,620 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-04 13:32:25,620 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 13:32:25,620 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\src\test\resources
+2017-07-04 13:47:32,104 [Worker-96] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 13:47:32,104 [Worker-96] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 13:49:55,023 [Worker-108] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 13:49:55,028 [Worker-108] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  compile
+2017-07-04 16:36:57,270 [main] ERROR o.e.m2e.editor.pom.OverviewPage - Failed to populate overview panel
+org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4533) ~[org.eclipse.swt.win32.win32.x86_64_3.105.3.v20170228-0512.jar:na]
+	at org.eclipse.swt.SWT.error(SWT.java:4448) ~[org.eclipse.swt.win32.win32.x86_64_3.105.3.v20170228-0512.jar:na]
+	at org.eclipse.swt.SWT.error(SWT.java:4419) ~[org.eclipse.swt.win32.win32.x86_64_3.105.3.v20170228-0512.jar:na]
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:482) ~[org.eclipse.swt.win32.win32.x86_64_3.105.3.v20170228-0512.jar:na]
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:354) ~[org.eclipse.swt.win32.win32.x86_64_3.105.3.v20170228-0512.jar:na]
+	at org.eclipse.swt.widgets.Control.setRedraw(Control.java:3679) ~[org.eclipse.swt.win32.win32.x86_64_3.105.3.v20170228-0512.jar:na]
+	at org.eclipse.ui.forms.widgets.Section.reflow(Section.java:127) ~[na:na]
+	at org.eclipse.ui.forms.widgets.Section.internalSetExpanded(Section.java:117) ~[na:na]
+	at org.eclipse.ui.forms.widgets.ExpandableComposite.setExpanded(ExpandableComposite.java:880) ~[na:na]
+	at org.eclipse.m2e.editor.pom.OverviewPage$17$1.process(OverviewPage.java:1150) ~[na:na]
+	at org.eclipse.m2e.core.ui.internal.editing.PomEdits.performOnDOMDocument(PomEdits.java:510) ~[org.eclipse.m2e.core.ui_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.editor.pom.OverviewPage$17.run(OverviewPage.java:1129) ~[na:na]
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35) [org.eclipse.swt.win32.win32.x86_64_3.105.3.v20170228-0512.jar:na]
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182) [org.eclipse.swt.win32.win32.x86_64_3.105.3.v20170228-0512.jar:na]
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4211) [org.eclipse.swt.win32.win32.x86_64_3.105.3.v20170228-0512.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3827) [org.eclipse.swt.win32.win32.x86_64_3.105.3.v20170228-0512.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121) [org.eclipse.e4.ui.workbench.swt_0.14.1.v20160829-0832.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336) [org.eclipse.core.databinding.observable_1.6.0.v20160511-1747.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022) [org.eclipse.e4.ui.workbench.swt_0.14.1.v20160829-0832.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150) [org.eclipse.e4.ui.workbench_1.4.0.v20160517-1624.jar:na]
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:693) [org.eclipse.ui.workbench_3.108.3.v20170216-1539.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336) [org.eclipse.core.databinding.observable_1.6.0.v20160511-1747.jar:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:610) [org.eclipse.ui.workbench_3.108.3.v20170216-1539.jar:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148) [org.eclipse.ui.workbench_3.108.3.v20170216-1539.jar:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138) [org.eclipse.ui.ide.application_1.1.101.v20160829-0827.jar:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196) [org.eclipse.equinox.app_1.3.400.v20150715-1528.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134) [org.eclipse.osgi_3.11.3.v20170209-1843.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104) [org.eclipse.osgi_3.11.3.v20170209-1843.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388) [org.eclipse.osgi_3.11.3.v20170209-1843.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243) [org.eclipse.osgi_3.11.3.v20170209-1843.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_131]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_131]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_131]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_131]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673) [org.eclipse.equinox.launcher_1.3.201.v20161025-1711.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610) [org.eclipse.equinox.launcher_1.3.201.v20161025-1711.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519) [org.eclipse.equinox.launcher_1.3.201.v20161025-1711.jar:na]
+2017-07-04 17:12:02,471 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 17:12:02,473 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  build
+2017-07-04 17:12:29,685 [Worker-29] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 17:12:29,686 [Worker-29] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  package
+2017-07-04 17:18:57,867 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 17:18:57,867 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  package
+2017-07-04 17:19:07,922 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 17:19:07,922 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  package
+2017-07-04 17:19:30,751 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.healthiq.simulator:bloodsugar:0.0.1-SNAPSHOT @ C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\pom.xml.
+2017-07-04 17:19:35,013 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 17:19:35,018 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-04 17:19:35,035 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-07-04 17:19:35,038 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 17:19:35,039 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\src\test\resources
+2017-07-04 17:26:23,543 [Worker-40] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-04 17:26:23,550 [Worker-40] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  package
+2017-07-04 17:37:25,672 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 17:37:25,682 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-04 17:37:25,691 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2017-07-04 17:37:25,802 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 17:37:25,807 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\src\test\resources
+2017-07-04 17:40:29,033 [Worker-45] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.healthiq.simulator:bloodsugar:0.0.1-SNAPSHOT @ C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\pom.xml.
+2017-07-04 17:40:30,159 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 17:40:30,169 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-04 17:40:30,178 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-04 17:40:30,190 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 17:40:30,190 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\src\test\resources
+2017-07-04 17:41:52,319 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 17:41:52,322 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-04 17:41:52,443 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-04 17:41:52,451 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 17:41:52,515 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\src\test\resources
+2017-07-04 17:42:53,657 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 17:42:53,666 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-04 17:42:53,678 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-04 17:42:53,689 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 17:42:53,689 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\src\test\resources
+2017-07-04 17:44:33,126 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 17:44:33,128 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-04 17:44:33,139 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2017-07-04 17:44:33,270 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 17:44:33,276 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\src\test\resources
+2017-07-04 17:52:26,424 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 17:52:26,429 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-04 17:52:26,435 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2017-07-04 17:52:26,543 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 17:52:26,544 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\src\test\resources
+2017-07-04 18:53:37,843 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 18:53:37,878 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-04 18:53:37,962 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2017-07-04 18:53:38,332 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-04 18:53:38,333 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\src\test\resources
+2017-07-05 01:43:36,996 [main] ERROR o.e.m2e.editor.pom.OverviewPage - Failed to populate overview panel
+java.lang.NullPointerException: null
+	at org.eclipse.m2e.core.ui.internal.editing.PomEdits.performOnDOMDocument(PomEdits.java:510) ~[org.eclipse.m2e.core.ui_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.editor.pom.OverviewPage$17.run(OverviewPage.java:1129) ~[na:na]
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35) [org.eclipse.swt.win32.win32.x86_64_3.105.3.v20170228-0512.jar:na]
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182) [org.eclipse.swt.win32.win32.x86_64_3.105.3.v20170228-0512.jar:na]
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4211) [org.eclipse.swt.win32.win32.x86_64_3.105.3.v20170228-0512.jar:na]
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3827) [org.eclipse.swt.win32.win32.x86_64_3.105.3.v20170228-0512.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121) [org.eclipse.e4.ui.workbench.swt_0.14.1.v20160829-0832.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336) [org.eclipse.core.databinding.observable_1.6.0.v20160511-1747.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022) [org.eclipse.e4.ui.workbench.swt_0.14.1.v20160829-0832.jar:na]
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150) [org.eclipse.e4.ui.workbench_1.4.0.v20160517-1624.jar:na]
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:693) [org.eclipse.ui.workbench_3.108.3.v20170216-1539.jar:na]
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336) [org.eclipse.core.databinding.observable_1.6.0.v20160511-1747.jar:na]
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:610) [org.eclipse.ui.workbench_3.108.3.v20170216-1539.jar:na]
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148) [org.eclipse.ui.workbench_3.108.3.v20170216-1539.jar:na]
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138) [org.eclipse.ui.ide.application_1.1.101.v20160829-0827.jar:na]
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196) [org.eclipse.equinox.app_1.3.400.v20150715-1528.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134) [org.eclipse.osgi_3.11.3.v20170209-1843.jar:na]
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104) [org.eclipse.osgi_3.11.3.v20170209-1843.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388) [org.eclipse.osgi_3.11.3.v20170209-1843.jar:na]
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243) [org.eclipse.osgi_3.11.3.v20170209-1843.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_131]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_131]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_131]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_131]
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673) [org.eclipse.equinox.launcher_1.3.201.v20161025-1711.jar:na]
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610) [org.eclipse.equinox.launcher_1.3.201.v20161025-1711.jar:na]
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519) [org.eclipse.equinox.launcher_1.3.201.v20161025-1711.jar:na]
+2017-07-11 03:23:05,406 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.healthiq.simulator:bloodsugar:0.0.1-SNAPSHOT @ C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\pom.xml.
+2017-07-11 03:23:13,816 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 03:23:13,820 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 03:23:13,840 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2017-07-11 03:23:14,005 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 03:23:14,005 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\src\test\resources
+2017-07-11 03:51:17,258 [Worker-29] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-11 03:51:17,258 [Worker-29] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  package
+2017-07-11 21:03:28,125 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 21:03:28,149 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-11 21:03:28,201 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2017-07-11 21:03:28,214 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-11 21:03:28,214 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\src\test\resources
+2017-07-12 03:17:05,344 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-12 03:17:05,360 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-12 03:17:05,360 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-07-12 03:17:05,376 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-12 03:17:05,376 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\src\test\resources
+2017-07-15 16:36:51,303 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-15 16:36:51,313 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-15 16:36:51,338 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-07-15 16:36:51,348 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-15 16:36:51,349 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\src\test\resources
+2017-07-16 01:37:07,558 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-16 01:37:07,578 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-16 01:37:07,587 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-07-16 01:37:07,592 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-16 01:37:07,593 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\src\test\resources
+2017-07-16 16:16:28,613 [Worker-276] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.healthiq.simulator:bloodsugar:0.0.1-SNAPSHOT @ C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\pom.xml.
+2017-07-16 16:16:38,733 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-16 16:16:38,733 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-16 16:16:38,921 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 7 resources
+2017-07-16 16:16:39,632 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-16 16:16:39,633 [Worker-273] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\src\test\resources
+2017-07-16 16:31:11,828 [Worker-285] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.healthiq.simulator:bloodsugar:0.0.1-SNAPSHOT @ C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\pom.xml.
+2017-07-16 16:31:17,735 [Worker-284] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-16 16:31:17,750 [Worker-284] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-16 16:31:17,766 [Worker-284] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2017-07-16 16:31:17,953 [Worker-284] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-16 16:31:17,953 [Worker-284] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\src\test\resources
+2017-07-16 17:18:40,807 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-16 17:18:40,812 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  package
+2017-07-16 17:19:03,753 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-16 17:19:03,764 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-16 17:19:03,792 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2017-07-16 17:19:04,110 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-16 17:19:04,110 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\src\test\resources
+2017-07-16 17:50:19,508 [Worker-32] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-16 17:50:19,510 [Worker-32] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  package docker:build
+2017-07-16 17:51:25,910 [Worker-29] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-16 17:51:25,910 [Worker-29] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  package docker:build
+2017-07-16 17:53:04,809 [Worker-33] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-16 17:53:04,810 [Worker-33] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  package docker:build
+2017-07-16 17:58:45,516 [Worker-36] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-16 17:58:45,516 [Worker-36] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean  package
+2017-07-16 17:59:12,628 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-16 17:59:12,637 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-07-16 17:59:12,638 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-07-16 17:59:12,643 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-16 17:59:12,643 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\src\test\resources
+2017-07-16 18:04:44,803 [Worker-40] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-16 18:04:44,803 [Worker-40] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean package docker:build
+2017-07-16 18:11:45,478 [Worker-47] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar
+2017-07-16 18:11:45,478 [Worker-47] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean package docker:build
+2017-07-16 18:42:46,636 [Worker-57] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.healthiq.simulator:bloodsugar:0.0.1-SNAPSHOT @ C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\pom.xml.
+2017-07-16 18:42:47,616 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-16 18:42:47,629 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-07-16 18:42:47,655 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-07-16 18:42:47,668 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-07-16 18:42:47,669 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\src\test\resources
+2017-07-16 18:55:09,971 [Worker-56] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-07-16 18:55:12,785 [Worker-56] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.healthiq.simulator:bloodsugar:0.0.1-SNAPSHOT @ C:\Users\Official\Documents\HealthIQ\simulator-bloodsugar\pom.xml.
+2017-07-16 18:55:14,507 [Worker-56] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bloodsugar/src/main/java
+2017-07-16 18:55:14,519 [Worker-56] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bloodsugar/src/main/resources
+2017-07-16 18:55:14,527 [Worker-56] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bloodsugar/src/main/resources
+2017-07-16 18:55:14,529 [Worker-56] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bloodsugar/src/test/java
+2017-07-16 18:55:18,198 [Worker-56] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 8 sec

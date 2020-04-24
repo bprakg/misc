@@ -1,0 +1,16 @@
+package com.sample;
+
+import java.util.concurrent.Executor;
+import java.util.concurrent.Executors;
+
+public class Sample {
+
+	public static void main(String[] args) {
+		Executor e = Executors.newFixedThreadPool(4);
+		for (int i = 0; i < 10; i++) {
+			e.execute(new ThreadTest(i));
+		}
+
+	}
+
+}
