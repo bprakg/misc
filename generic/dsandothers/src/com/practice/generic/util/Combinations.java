@@ -1,4 +1,4 @@
-package com.client.generic;
+package com.practice.generic.util;
 
 import java.util.Arrays;
 

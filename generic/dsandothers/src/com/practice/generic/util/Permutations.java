@@ -1,4 +1,4 @@
-package com.client.generic;
+package com.practice.generic.util;
 
 
 public class Permutations {
