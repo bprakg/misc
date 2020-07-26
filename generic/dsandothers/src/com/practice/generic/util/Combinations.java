@@ -1,7 +1,5 @@
 package com.practice.generic.util;
 
-import java.util.Arrays;
-
 public class Combinations {
 
 	// print all subsets of the characters in s
@@ -23,17 +21,25 @@ public class Combinations {
 		comb2("", s);
 	}
 
-	public static void comb2(String prefix, String s) {
+	private static void comb2(String prefix, String s) {
 		System.out.println(prefix);
-		for (int i = 0; i < s.length(); i++) comb2(prefix + s.charAt(i), s.substring(i + 1));
+		for (int i = 0; i < s.length(); i++)
+			comb2(prefix + s.charAt(i), s.substring(i + 1));
 	}
-	
-	public static void comb2(char[] p, char[] s) {
-		System.out.print(p);
-		char[] c = Arrays.copyOf(p, p.length + 1);
-		for (int i = 0; i < s.length; i++) {
-			c[p.length] = s[i];
-			comb2(c, Arrays.copyOfRange(s, i + 1, s.length));
-		}
+
+	// read in N from command line, and print all subsets among N elements
+	public static void main(String[] args) {
+		int n = 3;
+		String alphabet = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
+		String elements = alphabet.substring(0, n);
+
+		// using first implementation
+		comb1(elements);
+		System.out.println();
+
+		// using second implementation
+		comb2(elements);
+		System.out.println();
 	}
+
 }
