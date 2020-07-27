@@ -1,5 +1,7 @@
 package com.practice.generic.util;
 
+import java.util.Arrays;
+
 public class Combinations {
 
 	// print all subsets of the characters in s
@@ -42,4 +44,20 @@ public class Combinations {
 		System.out.println();
 	}
 
+	private static void comb(int[] prefix, int[] arr) {
+		System.out.println(Arrays.toString(prefix));
+		for (int i = 0; i < arr.length; i++) {
+			int[] tmp = null;
+			if (prefix == null) {
+				tmp = new int[1];
+				tmp[0] = arr[i];
+			} else {
+				tmp = Arrays.copyOf(prefix, prefix.length + 1);
+				tmp[prefix.length] = arr[i];
+			}
+			comb(tmp, Arrays.copyOfRange(arr, i + 1, arr.length));
+		}
+
+	}
+	
 }
